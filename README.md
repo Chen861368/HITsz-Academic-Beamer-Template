@@ -85,7 +85,6 @@ The repository contains the following files:
 ![示例页面1](figures/1.png)
 ![示例页面2](figures/2.png)
 ![示例页面3](figures/3.png)
-![示例页面4](figures/4.png)
 ![示例页面5](figures/5.png)
 ![示例页面6](figures/6.png)
 
