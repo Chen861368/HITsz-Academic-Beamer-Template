@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{1977Dynamics}
+Ray~W. Clough, Joseph Penzien, and D.~S. Griffin.
+\newblock Dynamics of structures / r.w. clough.
+\newblock {\em Journal of Applied Mechanics}, 44(2):366, 1977.
+
+\bibitem{luLearningNonlinearOperators2021a}
+Lu~Lu, Pengzhan Jin, Guofei Pang, Zhongqiang Zhang, and George~Em Karniadakis.
+\newblock Learning nonlinear operators via deeponet based on the universal
+  approximation theorem of operators.
+\newblock 3(3):218--229.
+
+\bibitem{majumdarAutoencoderBasedFormulation2018}
+Angshul Majumdar.
+\newblock An autoencoder based formulation for compressed sensing
+  reconstruction.
+\newblock 52:62--68.
+
+\end{thebibliography}

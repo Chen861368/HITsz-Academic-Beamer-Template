@@ -1,0 +1,11 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Introduction}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Document Overview}{5}{0}{1}
+\beamer@sectionintoc {2}{Main Content}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{The Mathematical Estimation problem}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{Numerical Example: MDOF Systems}{12}{0}{2}
+\beamer@subsectionintoc {2}{3}{Hamilton's Principle}{16}{0}{2}
+\beamer@sectionintoc {3}{Conclusion}{23}{0}{3}
+\beamer@subsectionintoc {3}{1}{Conclusion}{24}{0}{3}
+\beamer@subsectionintoc {3}{2}{Alert Information}{25}{0}{3}
