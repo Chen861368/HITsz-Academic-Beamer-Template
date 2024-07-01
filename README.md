@@ -12,16 +12,6 @@
 
 要使用此模板，只需克隆本仓库，并使用您喜欢的LaTeX编辑器编译`PPT.tex`文件。模板包括几个示例幻灯片，如介绍、文档概述、数学估计问题、卡尔曼滤波器、数值示例和哈密顿原理。
 
-## 示例图片
-
-以下是一些演示文稿的示例页面：
-
-![示例页面1](figures/1.png)
-![示例页面2](figures/2.png)
-![示例页面3](figures/3.png)
-![示例页面4](figures/4.png)
-![示例页面5](figures/5.png)
-![示例页面6](figures/6.png)
 
 ## 许可证
 
@@ -88,7 +78,16 @@ The repository contains the following files:
 - `double_.png`: An image used in the presentation.
 - `references.bib`: The bibliography file.
 
+## 示例图片（Example Slides）
 
+以下是一些演示文稿的示例页面（Here are some example slides from the presentation:）：
+
+![示例页面1](figures/1.png)
+![示例页面2](figures/2.png)
+![示例页面3](figures/3.png)
+![示例页面4](figures/4.png)
+![示例页面5](figures/5.png)
+![示例页面6](figures/6.png)
 
 
 
